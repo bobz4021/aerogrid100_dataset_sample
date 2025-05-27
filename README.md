@@ -13,7 +13,7 @@ This repository provides a sample from the **AeroGrid100** dataset, a structured
 - **Camera Pose Conversion**: Generated `transforms.json` with 6-DoF camera-to-world transformations.
 - **OpenGL Alignment**: Poses conform to NeRF coordinate conventions for immediate use in common frameworks.
 
-## 🛠 To Be Completed
+## To Be Completed
 
 - [ ] **Full Dataset Upload**: Add all 100 grid point locations across 5 altitudes with full yaw-pitch sampling.
 - [ ] **Metadata Expansion**: Include GPS, altitude, timestamp, and full drone flight logs.
@@ -21,10 +21,10 @@ This repository provides a sample from the **AeroGrid100** dataset, a structured
 - [ ] **Documentation**: Add usage instructions and a data collection methodology overview.
 - [ ] **Citation Information**: Add BibTeX entry and paper reference once published.
 
-## 📄 Citation
+## Citation
 
 If you use this dataset in your work, please cite our forthcoming publication (to be added).
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration inquiries, contact this github user.
